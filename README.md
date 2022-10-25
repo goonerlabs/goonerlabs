@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/hanswolfhart" target="blank"><img src="https://img.shields.io/twitter/follow/hanswolfhart?logo=twitter&style=for-the-badge" alt="hanswolfhart" /></a> </p>
 
-- 🔭 I’m currently working on [Algo Sale](https://github.com/goonerlabs/Reach-Algo-Sale-With-Tokens.git)
+- 🔭 I’m currently working on [Projects for the Algorand Greenhouse Hackathon](https://github.com/Apostrophe-Corp)
 
-- 🌱 I’m currently learning **Reach and React**
+- 🌱 I’m currently learning **At ALX Holberton School of Software Engineering and CS50 Intro to Computer Science**
 
-- 👯 I’m looking to collaborate on **Flask Open source projects**
+- 👯 I’m looking to collaborate on **Blockchain projects**
 
-- 💬 Ask me about **JavaScript, Python, Reach, Flask, AWS**
+- 💬 Ask me about **JavaScript, Python, Reach, Flask, AWS, Shell, C**
 
 - 📫 How to reach me **goonerlabs@gmail.com**
 
-- ⚡ Fun fact **I love football**
+- ⚡ Fun fact **I love football, F1 and Polo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
