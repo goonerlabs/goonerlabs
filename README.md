@@ -21,11 +21,12 @@
 
 ### 📌 What I've built
 
-- **[Warzones / Ghetto Pigeons](https://warzones.ghettopigeon.com)** — lead backend for an NFT-battle platform (Node · Mongo · Redis · Firebase · Algorand); multi-instance real-time via Socket.io + Redis adapter, Bull queues, PM2 — **2+ years in production**. Live [marketplace](https://market.ghettopigeon.com) + an Android game on Google Play.
+- **[Warzones / Ghetto Pigeons](https://warzones.ghettopigeon.com)** — lead backend for an NFT-battle platform (Node · Mongo · Redis · Firebase · Algorand); multi-instance real-time via Socket.io + Redis adapter, Bull queues, PM2 — **2+ years in production**. Live [marketplace](https://market.ghettopigeon.com).
+- 🎮 **Ghetto Warzones (the game)** — the **Unity multiplayer FPS** client for the platform (Photon PUN2 netcode · Firebase auth · Algorand NFT verification); I shipped the **Android (Google Play) + Windows** builds and the release pipeline — a full vertical from smart contracts → backend → playable game.
 - **[Pigeon Puffs](https://puffs.ghettopigeon.com)** & **[Crazy Embryo Club](https://www.crazyembryo.club)** — NFT-ecosystem backends (CSP hardening, collection crawlers, Cloudinary pipelines); Pigeon Puffs also ships an Android game on Google Play.
 - **[ViewReward](https://viewreward.app)** — Algorand ads + airdrops API with claim cooldowns and pool-drain rate-limiting (36-model schema).
 - **ChainBois** — play-to-earn token economy on Avalanche (ethers v6 · Hardhat · OpenZeppelin v5; ERC-721 + $BATTLE ERC-20), cron workers for payouts/audits + Unity score-sync — mainnet launching at **chainbois.com**.
-- **[ShootOut](https://discord.gg/3Xan9UHn8)** & **[DDAO-Lottery](https://discord.gg/nANcgnZ8)** — Discord-native (discord.js v14) tournament & lottery platforms with on-chain Algorand settlement (AlgoKit-utils v8).
+- **[ShootOut](https://discord.gg/3Xan9UHn8)** & **[DDAO-Lottery](https://discord.gg/nANcgnZ8)** — Discord-native (discord.js v14) platforms on Algorand (AlgoKit-utils v8); **DDAO is live & provably-fair (VRF)** — Discord bot + API + Next.js admin & WalletConnect wallet page, with enforced solvency checks.
 - **AetherFi · Redeemify · Big Ballz · Famverse** — a USSD on-chain wallet gateway (Africa's Talking), an ARC-3/19 physical-redemption API, and additional game / Web3 backends.
 
 <h3 align="left">Featured open source:</h3>
