@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/hanswolfhart" target="blank"><img src="https://img.shields.io/twitter/follow/hanswolfhart?logo=twitter&style=for-the-badge" alt="hanswolfhart" /></a> </p>
 
+- 🌐 **Portfolio → [portfolio-goonerlabs-projects.vercel.app](https://portfolio-goonerlabs-projects.vercel.app)** — case studies, **live on-chain proof**, and live products
+
 - 🔭 I'm currently building **production backends for NFT games, DeFi, and on-chain fintech** across **Algorand** and **EVM** chains
 
 - 🌱 I'm currently deepening **distributed-systems design, smart-contract security, and AI agent tooling (MCPs)**
