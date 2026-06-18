@@ -7,6 +7,8 @@
 
 - 🌐 **Portfolio → [portfolio-goonerlabs-projects.vercel.app](https://portfolio-goonerlabs-projects.vercel.app)** — case studies, **live on-chain proof**, and live products
 
+- 📊 **4,300+ authored commits across 12 production backends** · **thousands of independently verifiable on-chain assets** (Algorand mainnet + Avalanche)
+
 - 🔭 I'm currently building **production backends for NFT games, DeFi, and on-chain fintech** across **Algorand** and **EVM** chains
 
 - 🌱 I'm currently deepening **distributed-systems design, smart-contract security, and AI agent tooling (MCPs)**
@@ -23,13 +25,14 @@
 
 ### 📌 What I've built
 
-- **[Warzones / Ghetto Pigeons](https://warzones.ghettopigeon.com)** — lead backend for an NFT-battle platform (Node · Mongo · Redis · Firebase · Algorand); multi-instance real-time via Socket.io + Redis adapter, Bull queues, PM2 — **2+ years in production**. Live [marketplace](https://market.ghettopigeon.com).
-- 🎮 **Ghetto Warzones (the game)** — the **Unity multiplayer FPS** client for the platform (Photon PUN2 netcode · Firebase auth · Algorand NFT verification); I shipped the **Android (Google Play) + Windows** builds and the release pipeline — a full vertical from smart contracts → backend → playable game.
-- **[Pigeon Puffs](https://puffs.ghettopigeon.com)** & **[Crazy Embryo Club](https://www.crazyembryo.club)** — NFT-ecosystem backends (CSP hardening, collection crawlers, Cloudinary pipelines); Pigeon Puffs also ships an Android game on Google Play.
-- **[ViewReward](https://viewreward.app)** — Algorand ads + airdrops API with claim cooldowns and pool-drain rate-limiting (36-model schema).
-- **ChainBois** — play-to-earn token economy on Avalanche (ethers v6 · Hardhat · OpenZeppelin v5; ERC-721 + $BATTLE ERC-20), cron workers for payouts/audits + Unity score-sync — mainnet launching at **chainbois.com**.
-- **[ShootOut](https://discord.gg/3Xan9UHn8)** & **[DDAO-Lottery](https://discord.gg/nANcgnZ8)** — Discord-native (discord.js v14) platforms on Algorand (AlgoKit-utils v8); **DDAO is live & provably-fair (VRF)** — Discord bot + API + Next.js admin & WalletConnect wallet page, with enforced solvency checks.
-- **AetherFi · Redeemify · Big Ballz · Famverse** — a USSD on-chain wallet gateway (Africa's Talking), an ARC-3/19 physical-redemption API, and additional game / Web3 backends.
+- **[Warzones / Ghetto Pigeons](https://warzones.ghettopigeon.com)** — lead backend for an NFT-battle marketplace + game economy (Node · Mongo · Redis · Firebase · Algorand); multi-instance real-time auctions via Socket.io + Redis adapter (Redlock bid locks), Bull queues, PM2 — **925 commits, ~28 months in production**. On-chain: MGP (666) + DNKY (900) mainnet collections. Live [marketplace](https://market.ghettopigeon.com).
+- 🎮 **Ghetto Warzones (the game)** — the **Unity multiplayer FPS** client for the platform (Photon PUN2 netcode · Firebase auth · Algorand NFT verification); I shipped the **Android (Google Play) + Windows** builds, the release pipeline, and a CVE-2025-59489 security patch — a full vertical from smart contracts → backend → playable game.
+- **[ShootOut](https://hojshootout.com)** — sole backend author of a **live, mainnet** real-money Discord tournament platform on Algorand: custodial double-entry ledger with reconciliation, a circuit-breaker chain layer, and Redis distributed locks across a PM2 cluster.
+- **[Crazy Embryo Club](https://www.crazyembryo.club)** & **[Pigeon Puffs](https://app.pigeonpuffs.com)** — Algorand-mainnet NFT/token economies. CEC: sole author, **2,879 on-chain NFTs**, a 4-tier probabilistic reward engine. Pigeon Puffs: FAM token (984 holders) + HAYSTACK on-chain DEX, indexer-driven analytics.
+- **[ViewReward](https://viewreward.app)** — Algorand ads + airdrops API (1,647 commits, 36-model schema) with an **on-chain transitive Sybil-detection engine** and pool-drain rate-limiting.
+- **ChainBois** — play-to-earn token economy + contracts on **Avalanche Fuji testnet** (ethers v6 · Hardhat · OpenZeppelin v5; ERC20Capped $BATTLE + dual ERC-721 with EIP-4906 dynamic metadata; **258 tests**); I built the EIP-6963 testnet faucet UI too. Mainnet on the roadmap.
+- **[DDAO-Lottery](https://discord.gg/nANcgnZ8)** — full-stack (backend **+** WalletConnect frontend, both mine) provably-fair Discord lottery on Algorand (AlgoKit-utils v8), **live testnet + mainnet**: commit-reveal draws reproducible from block seeds, double-entry treasury with hourly reconciliation.
+- **AetherFi · Redeemify** — a USSD on-chain wallet gateway (Africa's Talking) + custodial wallet API, and an ARC-3/19 physical-redemption backend (retired).
 
 <h3 align="left">Featured open source:</h3>
 
